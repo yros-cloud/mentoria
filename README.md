@@ -145,10 +145,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Eventos
 * Filas
 
-
 ### Semana 6: Lógica de Programação e Scripting
-
-
 
 * Introdução à lógica de programação.
 * Prática de algoritmos simples.
@@ -157,17 +154,48 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Exercícios práticos de scripting para automação.
 
 
-### Semana 7: Servidores e Infraestrutura como Código (IaC)
+### Semana 7-8: Servidores e Infraestrutura como Código (IaC)
 
 
 * Introdução à Infraestrutura como Código (IaC).
 * Ferramentas populares: Terraform, Ansible, Chef, Puppet, CDK, Pulumi
 * Boas práticas
+* Terraform
 * Exercícios práticos de provisionamento de infraestrutura usando Terraform
 
-#### CI/CD
+### Semana 9: Introdução a aplicações
 
+#### Aplicações Estáticas
 
+* O Que é uma aplicação estática
+* Node/JavaScript/HTML
+* NestJS
+* Exercicios Aplicacao Estática
+
+#### APIs
+
+* O Que é uma API
+* Tipos de API
+* Curl
+* Header
+* Response Codes
+
+### Semana 10-11: Containers e Docker, Packaging 
+
+* Introdução à containers e Docker.
+* Gerenciamento de contêineres.
+* Construção de imagens Docker.
+* Orquestração de containers com Docker Compose.
+* Containers para aplicações:
+    * Golang
+    * PHP
+    * Java Spring
+    * Python
+    * Node/TypeScript
+
+### Semana 12-13: Introdução a CI/CD
+
+* Introdução a pipelines
 * Métricas de Desempenho
 * Github Actions
 * Git Lab CI
@@ -192,39 +220,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
     * Infra test
     * 
 
-#### Aplicações Estáticas
-
-
-* O Que é uma aplicação estática
-* Node/JavaScript/HTML
-* NestJS
-* Exercicios Aplicacao Estática
-
-#### APIs
-
-* O Que é uma API
-* Tipos de API
-* Curl
-* Header
-* Response Codes
-
-
-### Semana 8-9: Containers e Docker, Packaging 
-
-
-* Introdução à containers e Docker.
-* Gerenciamento de contêineres.
-* Construção de imagens Docker.
-* Orquestração de containers com Docker Compose.
-* Containers para aplicações:
-    * Golang
-    * PHP
-    * Java Spring
-    * Python
-    * Node/TypeScript
-
-
-### Semana 10-11: Orquestração de Containers com Kubernetes
+### Semana 14-16: Orquestração de Containers com Kubernetes
 
 
 * Fundamentos do Kubernetes.
@@ -233,7 +229,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Exercícios práticos com Kubernetes.
 
 
-### Semana 12: Serverless Computing
+### Semana 17: Serverless Computing
 
 
 * Introdução ao conceito de serverless.
@@ -242,7 +238,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Uso de eventos e gatilhos.
 
 
-### Semana 13: Arquitetura de Aplicações Distribuídas
+### Semana 18: Arquitetura de Aplicações Distribuídas
 
 
 * Over Engineering
@@ -253,7 +249,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Kafka
 
 
-### Semana 14-15: Estratégias de Monitoramento e Observabilidade (SRE)
+### Semana 19-20: Estratégias de Monitoramento e Observabilidade (SRE)
 
 
 * Diferença entre monitoramento e observabilidade
@@ -268,13 +264,13 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Exercícios de gerenciamento de incidentes
 
 
-### Semana 16-17: Segurança na Nuvem e Práticas de DevSecOps
+### Semana 21-22: Segurança na Nuvem e Práticas de DevSecOps
 
 * Princípios de segurança na nuvem.
 * Melhores práticas de DevSecOps.
 * Ferramentas de segurança: AWS IAM, Azure AD, GCP Identity & Access Management.
 
-#### Gitops
+### Semana 23: GitOPS
 
 * O Que é GitOps
 * Entendendo um control plane
@@ -282,7 +278,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Crossplane
 
 
-### Semana 19-20: Resolução de Problemas e Simulação de Cenários
+### Semana 24-25: Resolução de Problemas e Simulação de Cenários
 
 * Análise de casos de uso e resolução de problemas.
 * Simulação de incidentes e prática de resposta.
@@ -294,7 +290,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * migrando para kubernetes
 
 
-### Semana 21-24: Projetos Práticos e Acompanhamento Individual
+### Semana 26-28: Projetos Práticos e Acompanhamento Individual
 
 * Divisão dos participantes em squads.
 * Desenvolvimento de projetos práticos em equipe.
@@ -302,12 +298,12 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Sessões individuais para elaboração de Planos de Desenvolvimento Individual (PDI).
 
 
-### Semana 25-26: Apresentação de Projetos e Avaliação
+### Semana 29-32: Apresentação de Projetos e Avaliação
 
 * Apresentação dos projetos desenvolvidos pelos squads.
 * Avaliação dos participantes e feedback individualizado.
 * Discussão sobre próximos passos e oportunidades de aprimoramento.
 
-### Final: Simulação de entrevistas
+### Semana 33-36: Simulação de entrevistas
 
 Durante todo o programa, haverá uma mistura de sessões teóricas, práticas e de discussão em equipe. O acompanhamento próximo garantirá que cada participante receba suporte adequado e tenha a oportunidade de aplicar os conhecimentos adquiridos em projetos reais.
