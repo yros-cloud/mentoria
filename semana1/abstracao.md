@@ -37,6 +37,14 @@ Em desenvolvimento de software, você é capaz de entender o funcionamento de um
 Você pode fazer essas perguntas diariamente a si mesmo e colher os resultados de acordo com a facilidade que você tem em realizar essas tarefas. Com o tempo você vai notar que essa habilidade é realmente incrível e vai se tornar algo cada vez mais natural!
 
 
+### Usando a abstracao para priorizar
+
+A perca de foco e o perfeccionismo
+
+Nosso trabalho é saber quando está bom uma entrega, e para isso temos que entender o ambiente, a tarefa, o momento. Diversos fatores influenciam na decisão sempre.
+
+Video meme sobre: https://www.youtube.com/watch?v=AbSehcT19u0
+
 ### O medo do desconhecido
 
 O medo se manifesta na dificuldade de enfrentar novas situações, seja no trabalho ou na vida pessoal.
@@ -70,15 +78,6 @@ A paralisia é alimentada por pensamentos como "isso não é para mim", "melhor 
 É claro que não se pode garantir que, fora do ambiente conhecido tudo dará certo. 
 
 Por outro lado, se você não tentar, não vai saber se consegue. E, nesse cenário, seus sonhos nunca deixarão de ser apenas isso.
-
-### Usando a abstracao para priorizar
-
-A perca de foco e o perfeccionismo
-
-Nosso trabalho é saber quando está bom uma entrega, e para isso temos que entender o ambiente, a tarefa, o momento. Diversos fatores influenciam na decisão sempre.
-
-Video meme sobre: https://www.youtube.com/watch?v=AbSehcT19u0
-
 
 #### Conclusão
 
