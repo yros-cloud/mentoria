@@ -1,22 +1,22 @@
 ## Abstração
 
-#### Definição
+### Definição
 
 Na terminologia filosófica, a abstração é o processo de pensamento em que as ideias são distanciadas dos objetos.[3] A abstração usa a estratégia de simplificação, em que detalhes concretos são deixados ambíguos, vagos ou indefinidos. Assim, uma comunicação efetiva sobre as coisas abstraídas requer uma intuição ou experiência comum entre o comunicador e o recipiente da comunicação. Isso é verdade para todas as formas de comunicação verbal/abstrata.
 
 Fonte: https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o
 
-#### Abstração no Desenvolvimento de Software
+### Abstração no Desenvolvimento de Software
 
 Pense nos aplicativos que você usa no seu smartphone. Você não precisa saber como o código funciona por trás de cada botão e recurso para usá-los. Isso ocorre porque os desenvolvedores utilizaram a abstração para esconder a complexidade e fornecer uma interface simples e intuitiva para os usuários.
 
-#### A abstração ajuda os desenvolvedores a:
+### A abstração ajuda os desenvolvedores a:
 
 Simplificar a Complexidade: Programas de software podem ser incrivelmente complexos. A abstração permite que desenvolvedores trabalhem em partes isoladas, facilitando o entendimento e a manutenção.
 Reutilizar Código: Imagine que diferentes aplicativos precisem executar a mesma função, como tirar uma foto. Em vez de escrever o mesmo código várias vezes, os desenvolvedores podem criar uma abstração (uma função para tirar fotos) e usá-la em vários lugares.
 Colaborar com Equipes: Quando várias pessoas trabalham em um projeto, a abstração permite que cada membro da equipe se concentre em uma parte específica sem precisar entender todos os detalhes do sistema.
 
-#### Exemplos de Abstração
+### Exemplos de Abstração
 
 Carro: Quando você dirige um carro, não precisa entender todos os detalhes mecânicos. Você tem pedais, volante e alavanca de câmbio para controlar o veículo, enquanto o funcionamento interno do motor é abstraído.
 Micro-ondas: Você só precisa definir o tempo e pressionar o botão iniciar. A abstração esconde a complexidade de como o micro-ondas aquece os alimentos.
