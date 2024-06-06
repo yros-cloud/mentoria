@@ -83,6 +83,23 @@ Por outro lado, se você não tentar, não vai saber se consegue. E, nesse cená
 
 A abstração no desenvolvimento de software é como construir uma casa usando planos detalhados. Ela nos ajuda a lidar com a complexidade, simplificar tarefas e criar sistemas que todos possam usar sem precisar entender todos os detalhes internos. Na próxima vez que usar um aplicativo ou programa, lembre-se de que a abstração está trabalhando nos bastidores para tornar sua experiência mais simples e agradável.
 
+Você não precisa saber tudo para fazer algo, saiba o suficiente
+
+Você não precisa entregar tudo para ser entregue, entregue o suficiente para o momento, ninguém sabe de tudo.
+
+Você não precisa ter medo de fazer pois nunca estará completamente pronto na nossa area
+
+Você precisa colocar os pés no chão e utilizar a abstração não para dizer que entende ou é especialista ou bom em algo mas para resolver.
+
+Não se ache menos que ninguem e não se ache melhor que ninguém encontre o meio termo porque tudo é aprendizado.
+
+O Bom fica muito longe do ótimo, faça o Bom sempre que está tudo bem.
+
+Escolha bem o que quer aprender porque essa área de tecnologia muda constatemente
+
+Não queira aprender tudo sobre tudo, não somos máquinas, não é necessário, basta saber pra que serve e aprender o basico para interagir e saber pesquisar, no dia que voce for utilizar voce aprende mais porque a teoria e pratica são bem diferentes.
+
+Seja um generalista que é muito bom em algo especificos ou algumas coisas, as demais as coisas so precisa enteder o suficiente para interagir e para começar se precisar. 
 
 Fontes: 
 
