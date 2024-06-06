@@ -26,7 +26,10 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
     * [Markup](./semana1/introducao-git.md#markup)
     * [Issue](./semana1/introducao-git.md#issues)
     * [Merge](./semana1/introducao-git.md#gitmerge)
+    
 * Criação de times/squads
+    * Definição dos times
+    * Criação do repositório de cada time
 
 ### Semana 2-3: Introdução a Sistemas Operacionais, Redes e Storage
 
