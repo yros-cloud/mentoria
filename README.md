@@ -16,7 +16,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * [Chat da Reunião](https://drive.google.com/file/d/1AxD9hgI1nJY8E6jmv-h1fa695LyUr85r/view?usp=sharing)
 
 #### Dia 2
-* Conceito de abstração - O Pesquisador
+* [Conceito de abstração - O Pesquisador](./semana1/abstracao.md)
 * [O que é SCM (Source Control Management)](./semana1/scm.md) 
 * [Criação de conta no Github, configuração e criação de repositórios](https://docs.github.com/pt/get-started/start-your-journey)
 * [Introdução ao Github e ao protocolo Git básico](./semana1/introducao-git.md)
