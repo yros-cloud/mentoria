@@ -101,6 +101,8 @@ Não queira aprender tudo sobre tudo, não somos máquinas, não é necessário,
 
 Seja um generalista que é muito bom em algo especificos ou algumas coisas, as demais as coisas so precisa entender o suficiente para interagir e para começar a aprender mais fundo se precisar. 
 
+O Maior Risco é não correr risco nenhum
+
 Fontes: 
 
 https://pt.wikipedia.org/wiki/Abstra%C3%A7%C3%A3o
