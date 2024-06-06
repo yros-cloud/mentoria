@@ -97,7 +97,7 @@ O Bom fica muito longe do ótimo, faça o Bom sempre que está tudo bem.
 
 Escolha bem o que quer aprender porque essa área de tecnologia muda constatemente
 
-Não queira aprender tudo sobre tudo, não somos máquinas, não é necessário, basta saber pra que serve e aprender o basico para interagir e saber pesquisar, no dia que voce for utilizar voce aprende mais porque a teoria e pratica são bem diferentes.
+Não queira aprender tudo sobre tudo, não somos máquinas, não é necessário, basta saber pra que serve e aprender o basico para interagir e saber pesquisar, no dia que voce for utilizar voce aprende mais, porque a teoria e pratica são bem diferentes.
 
 Seja um generalista que é muito bom em algo especificos ou algumas coisas, as demais as coisas so precisa enteder o suficiente para interagir e para começar se precisar. 
 
