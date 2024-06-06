@@ -11,14 +11,16 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Apresentação do programa de mentoria e objetivos. 
 * Sessão de introdução pessoal e definição de expectativas.
 * Visão geral de SysAdmin, DevOps, SRE e Engenheiro de Plataforma.
-* Conceito de abstração - O Pesquisador 
-* Criação de conta no Github, configuração e criação de repositórios
-* Introdução ao Github e ao protocolo Git básico
-    * Branches
-    * Pull Request/Merge Request
-    * Markup
-    * Issue
-    * Merge
+* Conceito de abstração - O Pesquisador
+* [O que é SCM (Source Control Management)](./semana1/scm.md) 
+* [Criação de conta no Github, configuração e criação de repositórios](./semana1/github.md)
+* [Introdução ao Github e ao protocolo Git básico](./semana1/introducao-git.md)
+    * [Introdução ao Git e comandos](./semana1/introducao-git.md)
+    * [Branches](./semana1/introducao-git.md#issues)
+    * [Pull Request/Merge Request](./semana1/introducao-git.md#pullrequest)
+    * [Markup](./semana1/introducao-git.md#markup)
+    * [Issue](./semana1/introducao-git.md#issues)
+    * [Merge](./semana1/introducao-git.md#merge)
 * Criação de times/squads
 
 ### Semana 2-3: Introdução a Sistemas Operacionais, Redes e Storage
