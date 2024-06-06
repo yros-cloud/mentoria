@@ -79,7 +79,7 @@ A paralisia é alimentada por pensamentos como "isso não é para mim", "melhor 
 
 Por outro lado, se você não tentar, não vai saber se consegue. E, nesse cenário, seus sonhos nunca deixarão de ser apenas isso.
 
-#### Conclusão
+### Conclusão
 
 A abstração no desenvolvimento de software é como construir uma casa usando planos detalhados. Ela nos ajuda a lidar com a complexidade, simplificar tarefas e criar sistemas que todos possam usar sem precisar entender todos os detalhes internos. Na próxima vez que usar um aplicativo ou programa, lembre-se de que a abstração está trabalhando nos bastidores para tornar sua experiência mais simples e agradável.
 
