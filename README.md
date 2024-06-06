@@ -13,7 +13,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Visão geral de SysAdmin, DevOps, SRE e Engenheiro de Plataforma.
 * Conceito de abstração - O Pesquisador
 * [O que é SCM (Source Control Management)](./semana1/scm.md) 
-* [Criação de conta no Github, configuração e criação de repositórios](./semana1/github.md)
+* [Criação de conta no Github, configuração e criação de repositórios](https://docs.github.com/pt/get-started/start-your-journey)
 * [Introdução ao Github e ao protocolo Git básico](./semana1/introducao-git.md)
     * [Introdução ao Git e comandos](./semana1/introducao-git.md)
     * [Branches](./semana1/introducao-git.md#issues)
