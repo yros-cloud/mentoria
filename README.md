@@ -8,9 +8,14 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 
 ### Semana 1: Introdução e Fundamentos
 
-* Apresentação do programa de mentoria e objetivos. 
+#### Dia 1
+* [Apresentação do programa de mentoria e objetivos](https://drive.google.com/file/d/1D5Ja-ouGtDu3eIJ8O_SO1avDwhg8KEcj/view?usp=sharing)
 * Sessão de introdução pessoal e definição de expectativas.
-* Visão geral de SysAdmin, DevOps, SRE e Engenheiro de Plataforma.
+* [Visão geral de SysAdmin, DevOps, SRE e Engenheiro de Plataforma](https://docs.google.com/presentation/d/1nUYhz9eppun4T97XDPPn5QJLA1hBvg7P7s0B9P0SZkk/edit?usp=sharing)
+* [Gravação da reunião](https://drive.google.com/file/d/1D5Ja-ouGtDu3eIJ8O_SO1avDwhg8KEcj/view?usp=sharing)
+* [Chat da Reunião](https://drive.google.com/file/d/1AxD9hgI1nJY8E6jmv-h1fa695LyUr85r/view?usp=sharing)
+
+#### Dia 2
 * Conceito de abstração - O Pesquisador
 * [O que é SCM (Source Control Management)](./semana1/scm.md) 
 * [Criação de conta no Github, configuração e criação de repositórios](https://docs.github.com/pt/get-started/start-your-journey)
@@ -20,7 +25,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
     * [Pull Request/Merge Request](./semana1/introducao-git.md#pullrequest)
     * [Markup](./semana1/introducao-git.md#markup)
     * [Issue](./semana1/introducao-git.md#issues)
-    * [Merge](./semana1/introducao-git.md#merge)
+    * [Merge](./semana1/introducao-git.md#gitmerge)
 * Criação de times/squads
 
 ### Semana 2-3: Introdução a Sistemas Operacionais, Redes e Storage

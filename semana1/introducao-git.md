@@ -162,6 +162,22 @@ Use o comando: git merge [branch a unir]
 O fork é como um clone, porém dentro do github. Isso quer dizer que o repositório não vai ser baixado para seu computador, mas será criado um igual na sua conta.
 
 
+#### Issues
+
+Em inglês, issue quer dizer problema, porém, utilizamos para diversas coisas além disso, como rastrear ideias, comentários, tarefas ou erros nos repositórios no GitHub.
+
+Criando uma issue
+Acesso ao Repositório: Primeiro, acesse o repositório no GitHub. Certifique-se de estar logado em sua conta.
+
+Navegando para Issues: No menu superior do repositório, clique na guia "Issues". Aqui podemos visualizar todas as issues do repositório (por padrão, são mostradas as issues que ainda não foram resolvidas, fechadas):
+
+
+#### Markup
+
+O Markdown é uma linguagem fácil de ler e de gravar para formatar texto sem formatação. Você pode usar a sintaxe Markdown, juntamente com algumas marcas HTML adicionais, para formatar os arquivos em GitHub, em locais como READMEs do repositório e comentários sobre pull requests e issues.
+
+[Link sobre Markup](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ### Links uteis: 
 
 [Guia basico passo a passo](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
