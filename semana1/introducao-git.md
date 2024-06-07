@@ -17,19 +17,19 @@ O Git armazena todas as versões do código de um projeto. Quando você faz alte
 ### Quais são os principais comandos do Git?
 O Git é uma ferramenta bastante robusta e oferece diversos utilitários para gerenciar as versões de um projeto em linha de comando. Confira os principais comandos da ferramenta:
 
-Git config
-Git init;
-Git clone;
-Git status;
-Git add;
-Git commit;
-Git log;
-Git branch;
-Git checkout;
-Git diff.
-Git pull
-Git push
-Git merge
+- git config
+- git init
+- git clone
+- git status
+- git add
+- git commit
+- git log
+- git branch
+- git checkout
+- git diff
+- git pull
+- git push
+- git merge
 
 
 #### Git config 
