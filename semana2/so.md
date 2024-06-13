@@ -21,6 +21,25 @@ Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, d
 
 [Livro sobre Sistemas Operacionais](./LIVRO_UNICO.pdf)
 
+
+### Sistema Monotarefa
+
+Sistemas monotarefa como o nome já diz faz execução de apenas um programa por vez. Qualquer aplicação, para ser executada, deveria aguardar o término do programa atualmente em execução. Sistemas desse tipo se caracterizam por permitir que o processador, a memória e os periféricos dediquem-se, exclusivamente, a um único programa. Esses sistemas, conhecidos como monotarefa, enquanto um programa aguarda por um comando, como a digitação de algum dado pelo usuário, o processador permanece inativo sem realizar nenhum processo. Um exemplo de sistema monotarefa é o MS-DOS. Onde apenas uma janela era aberta e apenas um usuário utilizava os seus recursos disponíveis também monousuário. Até as primeiras versões do Windows, que já foram chamadas de multitarefa, não tinham de fato essa característica, já que eram executadas sobre o MS-DOS. Para tentar contornar essa limitação, emulava-se a multitarefa, porém o núcleo do programa fazia sua própria gestão dos processos. Caso o processo bloqueasse o Windows, todas as aplicações teriam de ser terminadas pois eram todas dependentes.
+
+
+### Sistemas Multiprogramados/multitarefa
+
+Este tipo de sistema operacional é uma evolução dos sistemas operacionais monoprogramados/monotarefa. Enquanto os sistemas operacionais mono programados/mono tarefa permitiam apenas a execução de um único programa, uma única tarefa, os sistemas multiprogramados/multitarefas permitem que vários programas sejam executados compartilhando os recursos do computador tais como discos, impressora, memória e processador. Neste sistema enquanto um programa espera uma entrada de dados pelo usuário um outro programa pode estar sendo processado no mesmo intervalo de tempo. Neste caso tanto a memória quanto o processador são compartilhados e o sistema operacional deve gerenciar e controlar este compartilhamento dos recursos de forma segura e protegida. Como existem vários programas sendo executados, várias tarefas, é função do sistema operacional garantir que um programa não afete o outro, permitindo a execução das tarefas de forma independente umas das outras. Por permitir o compartilhamento dos recursos pelas várias tarefas sendo executadas este tipo de sistema operacional possibilita a redução de custos em hardware. Entretanto, os sistemas multiprogramados/multitarefa são de implementação muito mais complexa, por ser necessário o gerenciamento e controle de todas as tarefas em execução e do compartilhamento dos recursos entre as tarefas.
+
+### Sistemas multiprogramados de tempo compartilhado
+Permitem a execução de várias tarefas pela divisão de tempo do uso do processador em pequenos intervalos de tempo denominados fatia de tempo ( time slice ). Os programas em execução se alternam no uso do processador, cada programa em execução fazendo uso de sua fatia de tempo. Desta forma, o tempo de uso do processador é compartilhado pelas várias tarefas em execução pelo sistema operacional. Por este motivo. estes sistemas também são chamados de sistemas time-sharing. Quando um programa termina seu intervalo de tempo de uso do processador ele é interrompido pelo sistema operacional, sendo substituído por outro programa e fica aguardando um novo intervalo de tempo para ter sua execução reiniciada do ponto onde foi interrompido. Este tipo de sistema permite a interação dos usuários com as aplicações através de monitor, teclado e mouse. O sistema operacional possui uma linguagem de comandos que são usados pelo usuário para interagir com o sistema operacional. Os comandos são digitados em uma interface de linha de comandos ou em uma interface gráfica com o uso de mouse. Por permitir a interação entre o usuário com as aplicações, estes sistemas também são conhecidos por sistemas online.  Observação: Atualmente todos os sistemas operacionais fazem uso de interface gráfica para interação com o usuário, porém a interface de linha de comandos também está presente em todos os sistemas operacionais. É muito importante conhecer a linguagem de comandos de um sistema operacional e fazer uso da interface de linha de comandos.
+
+
+### Sistemas multiprogramados de tempo real
+
+Permitem a execução de várias tarefas de acordo com a prioridade de execução de cada tarefa. A diferença entre os sistemas de tempo real e os sistemas de tempo compartilhado é que nos sistemas de tempo compartilhado o tempo de resposta pode variar um pouco sem no entanto comprometer a execução das tarefas, enquanto que nos sistemas de tempo real o tempo de resposta é rigidamente controlado e devem estar dentro de limites de tempo definidos que devem ser obedecidos caso contrário podem ocorrer problemas irreparáveis as aplicações. Costuma-se dizer que estes sistemas tem tempo de resposta quase instantâneo por isso são conhecidos por sistemas de tempo real. Em sistemas de tempo real não existe fatia de tempo para as tarefas em execução. O mecanismo utilizado para o compartilhamento do processador é a prioridade. Uma tarefa permanece em execução pelo processador o tempo que for necessário, até que outra tarefa com maior prioridade seja iniciada. A prioridade de execução das tarefas é determinada pela aplicação e não pelo sistema operacional. Estes sistemas são usados para aplicações críticas como controle de refinarias, controle de tráfego aéreo, sistemas de defesa, usinas termoelétricas, usinas nucleares, etc. Nestes sistemas o tempo de resposta é crítico para o controle de operações. Por isso são usados sistemas de tempo real.
+
+
 ### SISTEMAS OPERACIONAIS MAIS CONHECIDOS
 
 ### Windows
@@ -28,7 +47,6 @@ Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, d
 O Windows é o sistema operacional mais popular do mundo, usado por milhões de pessoas em todo o mundo. Ele é conhecido por sua interface amigável e sua compatibilidade com uma ampla variedade de softwares e hardwares.
 
 No entanto, o Windows também é conhecido por sua vulnerabilidade a vírus e malware, o que pode comprometer a segurança do seu computador.
-
 
 Ao comparar o Windows com outros sistemas operacionais como macOS, é importante considerar suas vantagens distintas. Aqui estão algumas vantagens do Windows:
 
