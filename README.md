@@ -37,7 +37,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 * Instalação das ferramentas necessárias para o módulo
 * Fundamentos Sistemas Operacionais
     * Linux/Windows/Mac OSX
-    * Conceito de threads e processos (swapping) slice time 
+    * Introdução do Linux
     * Instalação de um Linux no Virtual Box
         * Estrutura de diretórios
         * Variáveis de ambiente
@@ -70,15 +70,14 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
             * `alias`
             * `ln`
             * `bashrc e bash_profile`
-    * Exercícios comandos de Linux
+    * [Exercícios comandos de Linux](./semana1/linux.md#desafios)
     * Simulação de problemas reais
 
-	*  Referências e links úteis
-
-* Guia foca linux
-* Viva o linux
-* Filme InProprietario
-* Guia do Administrador do Sistema
+*  Referências e links úteis
+    * Guia foca linux
+    * Viva o linux
+    * Filme InProprietario
+    * Guia do Administrador do Sistema
 * Fundamentos de Rede
     * Instalação de ferramentas necessárias
     * Como funciona uma comunicação de rede
