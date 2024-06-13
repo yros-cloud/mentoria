@@ -8,11 +8,12 @@
 - Virtual Box é necessário para criarmos a máquina virtual.
 - Se você não o possui, é necessário que o instale na sua máquina.
 - Download Virtual Box Oracle: https://www.virtualbox.org/wiki/Downloads
+- Online terminal, Fedora e Alpine Linux: https://itsfoss.com/online-linux-terminals/
 
 ### Ubuntu Linux
 - Ubuntu é um sistema operacional gratuito
-- Baixe o arquivo ISO do Ubuntu: https://yros-public.s3.amazonaws.com/ubuntu-minimal.iso
-
+- Para instalar o Linux Baixe o arquivo ISO do Ubuntu: https://yros-public.s3.amazonaws.com/ubuntu-minimal.iso
+- Para usar uma versão já instalada: https://yros-public.s3.amazonaws.com/ubuntu-server-24-vbox.7z
 
 ## Criando uma máquina virtual (VM)(Passo 2):
 **Abra seu Virtual Box para dar inicio a esse passo**
