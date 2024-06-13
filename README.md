@@ -35,13 +35,12 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 ### Semana 2-3: Introdução a Sistemas Operacionais, Redes e Storage
 
 * Instalação das ferramentas necessárias para o módulo
-* Fundamentos Sistemas Operacionais
-    * Linux/Windows/Mac OSX
-    * Introdução do Linux
-    * Instalação de um Linux no Virtual Box
-        * Estrutura de diretórios
-        * Variáveis de ambiente
-        * Conhecendo os comandos básicos de Linux
+* [Fundamentos Sistemas Operacionais](./semana2/so.md)
+    * [Linux/Windows/Mac OSX](./semana2/so.md#sistemas-operacionais-mais-conhecidos)
+    * [Introdução do Linux](./semana2/linux.md)
+    * [Instalação de um Linux no Virtual Box](./semana2/virtualbox.md)
+        * [Estrutura de diretórios](./semana2/linuxdirs.md)
+        * [Conhecendo os comandos básicos de Linux](https://linuxjourney.com/lesson/the-shell)
             * `introdução ao Shell`
             * `man`
             * `apt/yum/yast/apk`
@@ -70,14 +69,15 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
             * `alias`
             * `ln`
             * `bashrc e bash_profile`
-    * [Exercícios comandos de Linux](./semana1/linux.md#desafios)
+        * Variáveis de ambiente
+    * [Exercícios comandos de Linux](./semana2/linux.md#desafios)
     * Simulação de problemas reais
 
 *  Referências e links úteis
-    * Guia foca linux
-    * Viva o linux
-    * Filme InProprietario
-    * Guia do Administrador do Sistema
+    * [Guia foca linux](https://guiafoca.org/)
+    * [Viva o linux](https://www.vivaolinux.com.br/)
+    * [Filme InProprietario](https://www.youtube.com/watch?v=PaZZ945JcE0)
+
 * Fundamentos de Rede
     * Instalação de ferramentas necessárias
     * Como funciona uma comunicação de rede
