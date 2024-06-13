@@ -11,9 +11,8 @@
 
 ### Ubuntu Linux
 - Ubuntu é um sistema operacional gratuito
-- Baixe o arquivo ISO do Ubuntu: http://archive.ubuntu.com/ubuntu/dists/focal/main/installer-amd64/current/legacy-images/netboot/mini.iso
+- Baixe o arquivo ISO do Ubuntu: https://yros-public.s3.amazonaws.com/ubuntu-minimal.iso
 
-![iso image](https://github.com/1saacYves/Linux-on-VIrtualBox/assets/170655155/98ecbdb2-f6a8-41e8-aca1-857903d100be)
 
 ## Criando uma máquina virtual (VM)(Passo 2):
 **Abra seu Virtual Box para dar inicio a esse passo**

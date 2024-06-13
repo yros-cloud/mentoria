@@ -31,6 +31,10 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
     * Criação das tasks no projeto github
     * Definição dos times
     * Criação do repositório de cada time
+* [Gravação da reunião](https://drive.google.com/file/d/1SteYmaUeut-c3ORrXNXPVh5XBy08SIp1/view?usp=sharing)
+* [Chat da Reunião](https://drive.google.com/file/d/1IK3Z7DK79CZVSHa9_gS0GEPonsZG-06A/view?usp=sharing)
+
+
 
 ### Semana 2-3: Introdução a Sistemas Operacionais, Redes e Storage
 
