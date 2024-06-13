@@ -21,7 +21,7 @@ Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, d
 
 ### SISTEMAS OPERACIONAIS MAIS CONHECIDOS
 
-#### Sistema Operacional Windows
+### Windows
 
 O Windows é o sistema operacional mais popular do mundo, usado por milhões de pessoas em todo o mundo. Ele é conhecido por sua interface amigável e sua compatibilidade com uma ampla variedade de softwares e hardwares.
 
@@ -52,7 +52,7 @@ O Windows oferece uma variedade de opções de personalização, permitindo que 
 
 Também é possível escolher entre uma variedade de navegadores da web, programas de e-mail e outros aplicativos de terceiros para atender às necessidades individuais.
 
-#### MacOS
+### MacOS
 O Mac OS é o sistema operacional usado em computadores Macintosh da Apple. Ele é conhecido por sua estabilidade e segurança, bem como sua facilidade de uso.
 
 O Mac OS é menos vulnerável a vírus e malware do que o Windows, mas também é mais caro e menos compatível com uma ampla variedade de softwares e hardwares.
@@ -80,7 +80,7 @@ O macOS oferece uma ampla variedade de aplicativos disponíveis na Mac App Store
 
 Além disso, o macOS é amplamente utilizado em ambientes de desenvolvimento, sendo a plataforma preferida por muitos desenvolvedores de software, especialmente para o desenvolvimento de aplicativos para iOS e macOS.
 
-#### Linux
+### Linux
 Linux é um sistema operacional de código aberto, o que significa que pode ser personalizado e modificado livremente pelos usuários. Isso permite que os usuários ajustem o sistema operacional para suas necessidades específicas e adicionem funcionalidades que não são encontradas em outros sistemas operacionais.
 
 O Linux é conhecido por sua segurança, estabilidade e flexibilidade, tornando-o popular entre empresas, desenvolvedores e entusiastas de tecnologia. Além disso, o Linux é gratuito, o que significa que pode ser usado sem custos adicionais.
