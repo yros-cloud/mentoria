@@ -19,6 +19,8 @@ Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de
 Gerenciar processos (execução) de programas;
 Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, definindo quais têm prioridade.
 
+[Livro sobre Sistemas Operacionais](./semana2/LIVRO_UNICO.pdf)
+
 ### SISTEMAS OPERACIONAIS MAIS CONHECIDOS
 
 ### Windows
