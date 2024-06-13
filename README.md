@@ -74,6 +74,7 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
     * Simulação de problemas reais
 
 *  Referências e links úteis
+    * [Livro Sistemas Operacionais](./semana2/LIVRO_UNICO.pdf)
     * [Guia foca linux](https://guiafoca.org/)
     * [Viva o linux](https://www.vivaolinux.com.br/)
     * [Filme InProprietario](https://www.youtube.com/watch?v=PaZZ945JcE0)
