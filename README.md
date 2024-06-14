@@ -76,6 +76,8 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
         * Variáveis de ambiente
     * [Exercícios comandos de Linux](./semana2/linux.md#desafios)
     * Simulação de problemas reais
+    * [Gravação Reunião dia 1/semana 2](https://drive.google.com/file/d/1ECGI6p5DCRUvX6nWHkswLMTV9THY4kKT/view?usp=sharing)
+    * [Chat da Reunião dia 1/semana 2](https://docs.google.com/document/d/1DG7ax8MsoG_wNEIZTotys2WwhMReECyN91JG09PhRTE/edit?usp=sharing)
 
 *  Referências e links úteis
     * [Livro Sistemas Operacionais](./semana2/LIVRO_UNICO.pdf)
