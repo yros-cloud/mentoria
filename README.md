@@ -1,22 +1,20 @@
 ## 📊 wik - Status Monitor
 
-## 📊 globoo.com - Status Monitor
-
 Monitoramento em tempo real do status, disponibilidade e performance do serviço.
 
 ### 🔍 Status Indicators
 
-![Status](https://not.pingar.com.br/api/badge/2/status/github/now) - Status atual do serviço (Online/Offline)
+![Status](https://not.pingar.com.br/api/badge/1/status/github/now) - Status atual do serviço (Online/Offline)
 
-![Uptime](https://not.pingar.com.br/api/badge/2/uptime/github/now) - Percentual de disponibilidade nas últimas 24h
+![Uptime](https://not.pingar.com.br/api/badge/1/uptime/github/now) - Percentual de disponibilidade nas últimas 24h
 
-![Ping](https://not.pingar.com.br/api/badge/2/ping/github/now) - Tempo de resposta médio do serviço
+![Ping](https://not.pingar.com.br/api/badge/1/ping/github/now) - Tempo de resposta médio do serviço
 
-![Avg Response](https://not.pingar.com.br/api/badge/2/avg-response/github/now) - Tempo médio de resposta das requisições
+![Avg Response](https://not.pingar.com.br/api/badge/1/avg-response/github/now) - Tempo médio de resposta das requisições
 
-![Certificate](https://not.pingar.com.br/api/badge/2/cert-exp/github/now) - Dias restantes para expiração do certificado SSL
+![Certificate](https://not.pingar.com.br/api/badge/1/cert-exp/github/now) - Dias restantes para expiração do certificado SSL
 
-![Response](https://not.pingar.com.br/api/badge/2/response/github/now) - Tempo de resposta da última verificação
+![Response](https://not.pingar.com.br/api/badge/1/response/github/now) - Tempo de resposta da última verificação
 
 ---
 
@@ -352,5 +350,6 @@ Fique a vontade para abrir Issue ou Criar PR para adicionar algo ou alguma idéi
 ### Semana 33-36: Simulação de entrevistas
 
 Durante todo o programa, haverá uma mistura de sessões teóricas, práticas e de discussão em equipe. O acompanhamento próximo garantirá que cada participante receba suporte adequado e tenha a oportunidade de aplicar os conhecimentos adquiridos em projetos reais.
+
 
 
